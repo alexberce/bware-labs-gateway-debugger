@@ -33,5 +33,5 @@ copy .env.example .env
 ## 3. Run the app
 ```bash
 # watch mode
-$ npm start:dev
+$ npm run start:dev
 ```
