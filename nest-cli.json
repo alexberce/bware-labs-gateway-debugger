@@ -1,0 +1,8 @@
+{
+  "sourceRoot": "src",
+  "collection": "@nestjs/schematics",
+  "compilerOptions": {
+    "plugins": [],
+    "watchAssets": true
+  }
+}
